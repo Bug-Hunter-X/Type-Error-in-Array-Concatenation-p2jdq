@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error related to array type mismatches during concatenation. The initial code attempts to concatenate two arrays, but a type error occurs if the arrays do not contain numbers. The solution provides type guards and type assertions to address this issue.
